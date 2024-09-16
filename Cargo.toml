@@ -1,0 +1,9 @@
+[package]
+name = "hq_mp4_to_webm"
+description = "High Quality mp4 to webm"
+version = "0.1.0"
+edition = "2021"
+
+[dependencies]
+rayon = "1.5"
+
